@@ -47,7 +47,6 @@ dependencies {
     def retrofitversion = "2.9.0"
     def okhttp3versoin = "4.9.0"
     implementation "om.squareup.retrofit2:retrofit:$retrofitversion"
-    implementation 'com.google.code.gson:gson:2.9.0'
     implementation "com.squareup.retrofit2:converter-gson:$retrofitversion"
     implementation "com.squareup.okhttp3:logging-interceptor:$okhttp3versoin"
     implementation "com.squareup.okhttp3:okhttp:$okhttp3versoin"
