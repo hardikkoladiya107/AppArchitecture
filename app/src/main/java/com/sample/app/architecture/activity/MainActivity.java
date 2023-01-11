@@ -30,7 +30,6 @@ public class MainActivity extends AppCompatActivity {
         binding.samplebutton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
                 binding.sampletext.startAnimation(animation);
             }
         });
